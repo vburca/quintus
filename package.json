@@ -1,0 +1,8 @@
+{
+  "name": "socket-chat-example",
+  "version": "0.0.1",
+  "description": "Quintus - a simple chat application using node.js and socket.io",
+  "dependencies": {
+    "express": "~4.9.0"
+  }
+}
